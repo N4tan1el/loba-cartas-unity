@@ -1,0 +1,1402 @@
+fileFormatVersion: 2
+guid: a264cf134b5711f44ae08b6f7753aecd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_trebol
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 893
+        width: 114
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf227fa9bc125142b74dcea838914ed
+      internalID: 1667663560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_espada
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 894
+        width: 111
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46164262857d87648a15d25aca583d3f
+      internalID: 1445002568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_corazon
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 894
+        width: 112
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635edb7bbfe0fc488e446969533564b
+      internalID: 961915190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_diamante
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 895
+        width: 111
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c37c9fce022b45960d4360bc9bfd3
+      internalID: -39358314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_trebol
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 893
+        width: 110
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9fe4194df61943ab584346b9f1396
+      internalID: 808419843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_espada
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 893
+        width: 111
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af672d88a30a64ab78cf98aa7f84cc
+      internalID: -1958036304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_corazon
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 894
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd3278907bb09d4897235e38a0f06ab
+      internalID: -563679240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_diamante
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 895
+        width: 110
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1666b6ff38d9f48b9ebedba1f3f5ac
+      internalID: -1912514288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_trebol
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 673
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec656a7b1484e947940d0e02bdb9221
+      internalID: 175527187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_espada
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 670
+        width: 110
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f1018ea546a54baea1908a0b7c1a9
+      internalID: -234945846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_corazon
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 670
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb676a1764f00445a413ef14f940032
+      internalID: 1552164890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_diamante
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 668
+        width: 111
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c677a9a409e3cd141b0b85b5b50ee4c2
+      internalID: -1588282318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9_trebol
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 671
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7f262b84699e49a7720b068f64353
+      internalID: 1298045323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9_espada
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 668
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb78f2e9142244fad05ca2dc5cc7c4
+      internalID: 256894752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9_corazon
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 671
+        width: 110
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d7925b0aacab04f930c795776caf6c
+      internalID: -1436596309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9_diamante
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 672
+        width: 112
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f45773a890f6444b4e59beb02aeac4
+      internalID: -1229728399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_trebol
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 446
+        width: 112
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5396e5f85b5dcb4c825ba878e9c2b1d
+      internalID: 736012483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_espada
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 448
+        width: 111
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815eb3f4b608be4c8577ab9e7058df1
+      internalID: 454820682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_corazon
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 447
+        width: 113
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d7a0b5bcd3cc4ea75a056d7699bb7
+      internalID: -209107680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_diamante
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 447
+        width: 111
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457074e2147e05478a5a0dd56686249
+      internalID: -1211213649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_trebol
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 448
+        width: 111
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88707aea1f3c79c4183cd90e90134050
+      internalID: 370371965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_espada
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 445
+        width: 110
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b5c06ddaab0f46af92e70cd27ae49
+      internalID: 99208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_corazon
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 445
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfaf8423f4bc9449a6080dc9f8a96c
+      internalID: -992250967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_diamante
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 445
+        width: 107
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd4ed06257a681408aaffa3701151d6
+      internalID: -2010885970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_trebol
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 446
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110414e61608d0469d5e38415a17aa1
+      internalID: -1418866066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_espada
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 446
+        width: 111
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0325318d0d4d34a978502c05ddca2b
+      internalID: 676125506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_corazon
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 445
+        width: 112
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdb3292dd5a5db4195a73a30c4b99f6
+      internalID: -751054968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_diamante
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 445
+        width: 111
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd7541308370342b6b2843eec7ff11
+      internalID: -234433187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_trebol
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 111
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c3f6f9573ecd49824295cbfb0ce62
+      internalID: 37874552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_espada
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 222
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4bbfff9e24554db8d4b7b5c2c670e
+      internalID: -1960940199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_corazon
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 222
+        width: 112
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639eb5215bc7db04a924c27084d925bf
+      internalID: 1005490009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_diamante
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 222
+        width: 110
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40ab3be1fdaa74fa742862f3506d7d
+      internalID: -812825293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_trebol
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 224
+        width: 112
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538be0c0456e2684eba0526bba1820a0
+      internalID: 478968760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_espada
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 222
+        width: 114
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c168bdc2cee84fa1d9362d8ab7d71
+      internalID: 973342892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_corazon
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 224
+        width: 111
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bce2058a19c21439a1ded38ba38dde
+      internalID: 1746049033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_diamante
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 224
+        width: 110
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d595d343ab1b499ad0ba77b2c2093
+      internalID: -535128313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q_trebol
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 222
+        width: 113
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f21e64ba67b4c478e1c73cf23362fa
+      internalID: 1634545498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q_espada
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 222
+        width: 109
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe2a11a2c2ebf46a1266f5a3fd5c77
+      internalID: -1645382675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q_corazon
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 223
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a996c152db2e74a907464fb1ce272e
+      internalID: 730153607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q_diamante
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 222
+        width: 109
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5dd140d273ad48963ff1c3998436c
+      internalID: -1831145849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joker
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9951eee3a16124c830035fbe9adccf
+      internalID: 630485458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espaldar_carta
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 113
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d3093865b4aea4488dc79f047df998
+      internalID: 1900401318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_trebol
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 113
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c382dc16ae5c4cb3f1facd441f032
+      internalID: -853938915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_espada
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4
+        width: 109
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3f09fe2e9b8154d9bc6b01c761de31
+      internalID: -1345949114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_corazon
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 4
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292a0b0013213f4294dd2108139abd7
+      internalID: -164445188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_diamante
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce318b9307add444b3260425c2367df
+      internalID: 1562004423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_trebol
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 111
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48210b96241f5419f7c4fc68673b14
+      internalID: 1582808666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_espada
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 0
+        width: 110
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f99003480a4d4990c40e820ba8fe0
+      internalID: -1901331211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_corazon
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 111
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d20de5634ffe649913f68081d0bffe
+      internalID: -1796417119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_diamante
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2
+        width: 111
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f764945694634fbbd9d6e65787b8b
+      internalID: 1323348977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: j_trebol
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 0
+        width: 112
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea653234f4d23f4f91d30bee9252334
+      internalID: -1031746438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: j_espada
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 0
+        width: 114
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cbb7d7dbef8c449a5befe2c7b7ed5
+      internalID: -22517496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: j_corazon
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 0
+        width: 113
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044ebf065bd92840bd047c7e172c71f
+      internalID: 2106103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: j_diamante
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 112
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc81be56fd98c04ea614b56ec91c5bf
+      internalID: -275495523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aafee6ebd49c27b4dbe526e86b93835a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      10_corazon: -563679240
+      10_diamante: -1912514288
+      10_espada: -1958036304
+      10_trebol: 808419843
+      2_corazon: 1005490009
+      2_diamante: -812825293
+      2_espada: -1960940199
+      2_trebol: 37874552
+      3_corazon: -209107680
+      3_diamante: -1211213649
+      3_espada: 454820682
+      3_trebol: 736012483
+      4_corazon: 1552164890
+      4_diamante: -1588282318
+      4_espada: -234945846
+      4_trebol: 175527187
+      5_corazon: 961915190
+      5_diamante: -39358314
+      5_espada: 1445002568
+      5_trebol: 1667663560
+      6_corazon: -1796417119
+      6_diamante: 1323348977
+      6_espada: -1901331211
+      6_trebol: 1582808666
+      7_corazon: 1746049033
+      7_diamante: -535128313
+      7_espada: 973342892
+      7_trebol: 478968760
+      8_corazon: -992250967
+      8_diamante: -2010885970
+      8_espada: 99208487
+      8_trebol: 370371965
+      9_corazon: -1436596309
+      9_diamante: -1229728399
+      9_espada: 256894752
+      9_trebol: 1298045323
+      Joker: 630485458
+      a_corazon: -164445188
+      a_diamante: 1562004423
+      a_espada: -1345949114
+      a_trebol: -853938915
+      baraja_completa_0: 2003343840
+      deck_transparent_0: -159419292
+      deck_transparent_1: 83115408
+      deck_transparent_10: 1316880266
+      deck_transparent_11: -1366368078
+      deck_transparent_12: -1561077375
+      deck_transparent_13: -766965497
+      deck_transparent_14: 1542666606
+      deck_transparent_15: -341036092
+      deck_transparent_24: 1936536040
+      deck_transparent_25: 1661821330
+      deck_transparent_26: 228274115
+      deck_transparent_27: 838588816
+      deck_transparent_28: -2108129042
+      deck_transparent_29: -399703935
+      deck_transparent_42: -1502465720
+      deck_transparent_43: 1562745735
+      espaldar_carta: 1900401318
+      j_corazon: 2106103168
+      j_diamante: -275495523
+      j_espada: -22517496
+      j_trebol: -1031746438
+      k_corazon: -751054968
+      k_diamante: -234433187
+      k_espada: 676125506
+      k_trebol: -1418866066
+      q_corazon: 730153607
+      q_diamante: -1831145849
+      q_espada: -1645382675
+      q_trebol: 1634545498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
